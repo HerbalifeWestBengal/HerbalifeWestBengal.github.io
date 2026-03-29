@@ -1,10 +1,10 @@
-<html>
-<head>
-  <title>My Site</title>
-</head>
-<body style="margin:0;">
-  <iframe src="https://herbalifewestbengal.my.canva.site/" 
-          style="width:100%; height:100vh; border:none;">
+<div style="position: relative; width: 100%; height: 0; padding-top: 506.0029%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAHFVlqZqtg/UvdcFxa3Te0oJOl07A8U_A/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
-</body>
-</html>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHFVlqZqtg&#x2F;UvdcFxa3Te0oJOl07A8U_A&#x2F;view?utm_content=DAHFVlqZqtg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">HERBALIFE WEST BENGAL</a> by HerbalifeWestBengal
+
+
